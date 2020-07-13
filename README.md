@@ -7,6 +7,6 @@
 
 So far this fork supports:
 
-39990-TGG-A120
-39990-TBA-A030
-39990-TLA-A040
+- 39990-TGG-A120 Civic Hatchback 17'-20'
+- 39990-TBA-A030 Civic Sedan 16'-18'
+- 39990-TLA-A040 CR-V
